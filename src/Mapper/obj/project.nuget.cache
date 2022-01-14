@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCMNsyJ6b9Z6nOKkqRJNABMPkljxiJrfDj7Gx9qdKu5KTeWfENRHsDgfU8TlFc7ywMHhriv+KCWitUeqEY77Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sasha\\Desktop\\App\\src\\Mapper\\Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sasha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

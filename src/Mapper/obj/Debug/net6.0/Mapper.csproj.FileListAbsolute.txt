@@ -1,0 +1,12 @@
+C:\Users\sasha\Desktop\App\src\Mapper\bin\Debug\net6.0\Mapper.deps.json
+C:\Users\sasha\Desktop\App\src\Mapper\bin\Debug\net6.0\Mapper.dll
+C:\Users\sasha\Desktop\App\src\Mapper\bin\Debug\net6.0\ref\Mapper.dll
+C:\Users\sasha\Desktop\App\src\Mapper\bin\Debug\net6.0\Mapper.pdb
+C:\Users\sasha\Desktop\App\src\Mapper\obj\Debug\net6.0\Mapper.csproj.AssemblyReference.cache
+C:\Users\sasha\Desktop\App\src\Mapper\obj\Debug\net6.0\Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\Desktop\App\src\Mapper\obj\Debug\net6.0\Mapper.AssemblyInfoInputs.cache
+C:\Users\sasha\Desktop\App\src\Mapper\obj\Debug\net6.0\Mapper.AssemblyInfo.cs
+C:\Users\sasha\Desktop\App\src\Mapper\obj\Debug\net6.0\Mapper.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\App\src\Mapper\obj\Debug\net6.0\Mapper.dll
+C:\Users\sasha\Desktop\App\src\Mapper\obj\Debug\net6.0\ref\Mapper.dll
+C:\Users\sasha\Desktop\App\src\Mapper\obj\Debug\net6.0\Mapper.pdb
